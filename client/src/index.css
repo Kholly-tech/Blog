@@ -67,6 +67,8 @@ button:focus-visible {
   }
 } */
 
+/* @import "tailwindcss"; */
+
 .spinner {
   border: 2px solid transparent;
   border-top-color: white; /* Change this to your preferred color */
