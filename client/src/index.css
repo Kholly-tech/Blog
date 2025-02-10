@@ -67,7 +67,7 @@ button:focus-visible {
   }
 } */
 
-/* @import "tailwindcss"; */
+@import "tailwindcss";
 
 .spinner {
   border: 2px solid transparent;
