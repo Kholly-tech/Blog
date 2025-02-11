@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 
 const Layout = () => {
   return (
-    <div className='min-h-screen bg-gray-100 text-black'>
+    <div className='min-h-screen bg-gray-50 text-black'>
         <Navbar />
         <Outlet />
     </div>
