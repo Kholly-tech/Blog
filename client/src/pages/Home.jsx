@@ -4,7 +4,7 @@ import HomeContent from '../components/home/HomeContent'
 
 const Home = () => {
   return (
-    <div className='w-full max-w-[95%] flex justify-center items-center mt-4 mx-auto'>
+    <div className='w-full max-w-[95%] flex  mt-4 mx-auto py-4'>
       <div className='w-full md:w-[70%] flex flex-col md:flex-row gap-10'>
         <HomeContent />
       </div>
